@@ -23,7 +23,6 @@ public class C2 {
 	
 	
 	public static void main(String[] args) {
-
 		C2 resultado = new C2();
 		resultado.sumo();
 		
